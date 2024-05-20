@@ -1,10 +1,10 @@
-# Projeto Editora de Livros
+# Projeto Editora Bastet
 
-Bem-vindo ao repositório do projeto **Editora de Livros**! Este projeto foi desenvolvido por uma equipe dedicada de nove programadores, e nosso objetivo é criar uma plataforma robusta e intuitiva para a administração e visualização de livros de diversos gêneros, incluindo romance, clássicos, fantasia, mistério, suspense e muito mais.
+Bem-vindo ao repositório do projeto **Editora Bastet**! Este projeto foi desenvolvido por uma equipe dedicada de nove programadores, e nosso objetivo é criar uma plataforma robusta e intuitiva para a administração e visualização de livros de diversos gêneros, incluindo romance, clássicos, fantasia, mistério, suspense e muito mais.
 
 ## Equipe de Desenvolvimento
 
-A equipe é composta pelos seguintes programadores:
+A equipe é composta pelos seguintes Desenvolvedores:
 
 1. **ALEXSANDRA MARIA DE CAMPOS**
 2. **BRENNON MEIRELES DE SOUZA**
@@ -24,11 +24,25 @@ O projeto foi desenvolvido utilizando um conjunto de tecnologias modernas e efic
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **ReactJS**
+- **ReactJs**
+- **Vite**
+- **Figma**
+- **LibraryANT**
+  
 
 ### Backend
+- **Express.js**
+- **cors**
+- **bcrypt**
+- **dotenv**
+- **email-validator**
+- **jsonwebtoken**
+- **moongose**
 - **Node.js**
 - **JWT (JSON Web Tokens)**
+- **axios**
+  
+  
 
 ### Banco de Dados
 - **MongoDB**
