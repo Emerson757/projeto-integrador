@@ -1,4 +1,4 @@
-# Projeto Editora Bastet
+# Projeto Editora Bastet              <img style=" width: 50px;  height:50px; margin-left: 20px;" src="https://s3-alpha-sig.figma.com/img/a87e/41f8/256846d6a9fd32e34b9eca4830f6d786?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kzehCGAYflPX6uuFlM2Y3-BeeBgNMuSba45J7xkQkg9PefVuOpdYaj5Jup2p8Z3sFOR9W~1oIwnF7XTQ32wP4-52hI1cTWSrap6s9JY0rXuWUQ959KCZLH4yz81PedP6EC36fE6wT1dZQtzNsIYECNSNtFWkeCAlyNF1H9DnkjwE1epnyF04feKvgMWHeMVYnH1tw-yaIBLQgcGD4SDQsemVUFx9H9Z6a1p~dx56ERyvlObJx0x-fvdJH-UPB7W4210tYoiR~eB-7OBLGUzHQOuIOcVf0D7z-fu~gSMHN0d2W7IXfgLfpwqevSWvkwkTKRAsjhbNLlQ1hKmxHxQWYA__" alt="Logo da Editora">
 
 Bem-vindo ao repositório do projeto **Editora Bastet**! Este projeto foi desenvolvido por uma equipe dedicada de nove programadores, e nosso objetivo é criar uma plataforma robusta e intuitiva para a administração e visualização de livros de diversos gêneros, incluindo romance, clássicos, fantasia, mistério, suspense e muito mais.
 
@@ -57,8 +57,8 @@ Nossa plataforma possui as seguintes funcionalidades principais:
 
 1. **Catálogo de Livros:** Visualização de uma lista de livros disponíveis, categorizados por gênero.
 2. **Detalhes do Livro:** Visualização de informações detalhadas sobre cada livro.
-3. **Autenticação e Autorização:** Implementação de sistema de login e controle de acesso utilizando JWT.
-4. **Gerenciamento de Livros:** Ferramentas para adicionar, editar e remover livros do catálogo (disponível para administradores).
+3. **Gerenciamento de Livros:** Ferramentas para adicionar, editar e remover livros do catálogo (disponível para administradores).
+4. **Autenticação e Autorização:** Implementação de sistema de login e controle de acesso utilizando JWT.
 5. **Pesquisa:** Função de pesquisa para encontrar livros específicos ou por categoria.
 
 ## Estrutura do Projeto
@@ -91,8 +91,9 @@ Para executar o projeto localmente, siga os passos abaixo:
 Crie um arquivo .env na raiz do diretório backend com as seguintes informações:
 
    ```bash
-   MONGO_URI=sua-string-de-conexao-mongodb
-   JWT_SECRET=sua-chave-secreta
+   DB_USER=login
+   DB_PASS=8ToI3JVCCxxyIrHN
+   SECRET=iqwdg873t19dqhq9uh752615@$$%AAAFGY%$YIHUFYTD
 
 
    
