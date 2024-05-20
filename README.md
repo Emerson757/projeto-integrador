@@ -65,8 +65,8 @@ Nossa plataforma possui as seguintes funcionalidades principais:
 
 A estrutura do projeto é organizada da seguinte forma:
 
-imagem da estrutura
-
+eu preciso de uma imagem da estrutura do projeto 
+ 
 ## Como Executar o Projeto
 
 Para executar o projeto localmente, siga os passos abaixo:
